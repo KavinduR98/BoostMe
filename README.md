@@ -1,16 +1,5 @@
 # boostme
+# Output :
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![collage](https://user-images.githubusercontent.com/88982954/233010601-f735415b-6b8f-4686-a2cb-f817f47b09be.png)
